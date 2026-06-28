@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohammad Siwad 👋</h1>
+ <h1 align="center">Hi, I'm Mohammad Siwad 👋</h1>
 
 <p align="center">
   <b>AI / Machine Learning Engineer</b><br>
@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mohd.siwad25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mohammad-siwad-a83292401/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Location-Palestine-007A3D?style=flat" alt="Location">
 </p>
 
